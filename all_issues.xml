@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:issues='http://schemas.google.com/projecthosting/issues/2009'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full</id><updated>NOW</updated><title>Issues - battery-indicator</title><subtitle>Issues - battery-indicator</subtitle><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/list'/><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?max-results=25'/><link rel='next' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?start-index=26&amp;max-results=25'/><generator version='1.0' uri='http://code.google.com/feeds/issues'>ProjectHosting</generator><openSearch:totalResults>127</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><entry gd:etag='W/&quot;D08NQX47eCl7ImA9WhRRGUU.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/69</id><published>2011-12-04T08:04:50.000Z</published><updated>2011-12-04T08:04:50.000Z</updated><title>Using extended battery by Samsung Galaxy SII</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:issues='http://schemas.google.com/projecthosting/issues/2009'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full</id><updated>NOW</updated><title>Issues - battery-indicator</title><subtitle>Issues - battery-indicator</subtitle><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/list'/><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?max-results=25'/><link rel='next' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?start-index=26&amp;max-results=25'/><generator version='1.0' uri='http://code.google.com/feeds/issues'>ProjectHosting</generator><openSearch:totalResults>129</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><entry gd:etag='W/&quot;D08NQX47eCl7ImA9WhRRGUU.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/69</id><published>2011-12-04T08:04:50.000Z</published><updated>2011-12-04T08:04:50.000Z</updated><title>Using extended battery by Samsung Galaxy SII</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
 1. Installed the original extended battery by Samsung Galaxy SII
 2. It was 19%,  all over sudden became 25%?! 
 &lt;b&gt;3. [Add or remove numbers as necessary]&lt;/b&gt;
@@ -295,65 +295,7 @@ No
 
 &lt;b&gt;Please provide any additional information here:&lt;/b&gt;
 --
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/101/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=101'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/101'/><author><name>pwh...@gmail.com</name><uri>/u/112930455399762991343/</uri></author><issues:id>101</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>2</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;C0QGSX47eCl7ImA9WhRbFUo.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/107</id><published>2012-02-06T23:35:28.000Z</published><updated>2012-02-06T23:35:28.000Z</updated><title>not showing proper</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
-&lt;b&gt;1.&lt;/b&gt;
-&lt;b&gt;2.&lt;/b&gt;
-&lt;b&gt;3. [Add or remove numbers as necessary]&lt;/b&gt;
-
-
-&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
-
-
-&lt;b&gt;What branch (Free or Pro) and version (number) of the app are you using?&lt;/b&gt;
-
-
-&lt;b&gt;Which device are you using?&lt;/b&gt;
-
-
-&lt;b&gt;Which carrier are you using?&lt;/b&gt;
-
-
-&lt;b&gt;What language is your device set to?&lt;/b&gt;
-
-
-&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
-
-
-Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
-
-
-&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
-
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/107/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=107'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/107'/><author><name>JAW2...@gmail.com</name><uri>/u/106783066960917922711/</uri></author><issues:id>107</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>0</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;C0IHQX47eCl7ImA9WhRbFUo.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/108</id><published>2012-02-06T23:38:50.000Z</published><updated>2012-02-06T23:38:50.000Z</updated><title>not showing proper charge level</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
-1.plug in usb charging
-2.plug in ac charger
-
-
-&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
-The app does not increase the charge % unless I reboot my phone
-
-
-&lt;b&gt;What branch (Free or Pro) and version (number) of the app are you using?&lt;/b&gt;
-Pro, most recent update
-
-&lt;b&gt;Which device are you using?&lt;/b&gt;
-Samsung epig 4g
-
-&lt;b&gt;Which carrier are you using?&lt;/b&gt;
-Sprint
-
-&lt;b&gt;What language is your device set to?&lt;/b&gt;
-English
-
-&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
-Most recent update
-
-Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
-No
-
-&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
-This problem recently popped up
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/108/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=108'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/108'/><author><name>JAW2...@gmail.com</name><uri>/u/106783066960917922711/</uri></author><issues:id>108</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;CEcGRH47eCl7ImA9WhRaGEQ.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/116</id><published>2012-02-22T06:27:05.000Z</published><updated>2012-02-22T06:27:05.000Z</updated><title>Battery indicator % problems. 1.) Says fully charged at 96% for long time possibly a bug. 2.) When unplugged discharges from 99% and dies at 2%.</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/101/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=101'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/101'/><author><name>pwh...@gmail.com</name><uri>/u/112930455399762991343/</uri></author><issues:id>101</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>2</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;CEcGRH47eCl7ImA9WhRaGEQ.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/116</id><published>2012-02-22T06:27:05.000Z</published><updated>2012-02-22T06:27:05.000Z</updated><title>Battery indicator % problems. 1.) Says fully charged at 96% for long time possibly a bug. 2.) When unplugged discharges from 99% and dies at 2%.</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
 1. Turned phone on/off 
 2. Unplugged charger plugged in 
 
@@ -395,33 +337,7 @@ Language is English
 Android Version 2.3.3
 AutoKiller memory is installed.
 
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/120/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=120'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/120'/><author><name>kelbalop...@gmail.com</name><uri>/u/112577975294199145931/</uri></author><issues:id>120</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;CE8ASH47eCl7ImA9WhVTF0g.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/121</id><published>2012-03-03T05:34:09.000Z</published><updated>2012-03-03T05:34:09.000Z</updated><title>My battery temp. shows high temp. sometimes as soon as 1-2 minutes of use(in excess of 40c and alarm goes off).</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
-1. Using phone as normal
-
-&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
-
-
-&lt;b&gt;What branch (Free or Pro) and version (number) of the app are you using?&lt;/b&gt;
-pro (most recent version, no update available)
-
-&lt;b&gt;Which device are you using?&lt;/b&gt;
-
-HTC Explorer
-&lt;b&gt;Which carrier are you using?&lt;/b&gt;
-
-O2
-&lt;b&gt;What language is your device set to?&lt;/b&gt;
-  
-English
-&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
-
-2.3.5
-Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
-No  
-
-&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
-
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/121/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=121'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/121'/><author><name>bumilbu...@gmail.com</name><uri>/u/109053020855229500754/</uri></author><issues:id>121</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DkcGSX47eCl7ImA9WhVSF04.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/124</id><published>2012-03-14T14:07:08.000Z</published><updated>2012-03-14T14:07:08.000Z</updated><title>app disables my lock screen</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/120/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=120'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/120'/><author><name>kelbalop...@gmail.com</name><uri>/u/112577975294199145931/</uri></author><issues:id>120</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DkcGSX47eCl7ImA9WhVSF04.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/124</id><published>2012-03-14T14:07:08.000Z</published><updated>2012-03-14T14:07:08.000Z</updated><title>app disables my lock screen</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
 1.my phone will not lock is app is installed
 &lt;b&gt;2.&lt;/b&gt;
 &lt;b&gt;3. [Add or remove numbers as necessary]&lt;/b&gt;
@@ -450,8 +366,7 @@ Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?no
 
 &lt;b&gt;Please provide any additional information here:&lt;/b&gt;
 When the app is installed it works fine except it disables my lock screen. I cannot lock the screen and use a pin to unlock my phone. When I uninstall the app then the lock screen works fine. Thanks. acarlucci67@gmail.com
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/124/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=124'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/124'/><author><name>acarlucc...@gmail.com</name><uri>/u/103644516576290838810/</uri></author><issues:id>124</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;Dk4ER347eCl7ImA9WhVRFk4.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/128</id><published>2012-03-24T23:49:32.000Z</published><updated>2012-03-25T00:21:46.000Z</updated><title>Battery Calibration Inaccurate</title><content type='html'>Please try to find a way to incorporate accurate battery calibration to the battery app.  My Sprint Motorola Photon running Gingerbread does not reflect the battery power left on my device accurately.  There have been others on some websites who have complained about the same issue.  
-Also, can you find a way to keep the battery icon in the task bar on top of the screen from moving off the screen when other apps have their icons there as well?  The other icons force the battery icon off the screen.</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/128/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=128'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/128'/><author><name>Jezusfre...@gmail.com</name><uri>/u/113698121377257983188/</uri></author><issues:id>128</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;D0ANQH47eCl7ImA9WhVQE0g.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/131</id><published>2012-04-02T08:36:31.000Z</published><updated>2012-04-02T08:36:31.000Z</updated><title>bug invalid number of hours reported after unplugged samsung droid charge</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/124/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=124'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/124'/><author><name>acarlucc...@gmail.com</name><uri>/u/103644516576290838810/</uri></author><issues:id>124</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;D0ANQH47eCl7ImA9WhVQE0g.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/131</id><published>2012-04-02T08:36:31.000Z</published><updated>2012-04-02T08:36:31.000Z</updated><title>bug invalid number of hours reported after unplugged samsung droid charge</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
 &lt;b&gt;1.&lt;/b&gt;
 &lt;b&gt;2.&lt;/b&gt;
 &lt;b&gt;3. [Add or remove numbers as necessary]&lt;/b&gt;
@@ -480,64 +395,7 @@ Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
 
 &lt;b&gt;Please provide any additional information here:&lt;/b&gt;
  your app is buggy
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/131/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=131'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/131'/><author><name>simonkaz...@gmail.com</name><uri>/u/118116605016285923983/</uri></author><issues:id>131</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DUMEQX47eCl7ImA9WhVQFks.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/133</id><published>2012-04-05T23:10:00.000Z</published><updated>2012-04-05T23:10:00.000Z</updated><title>Droid Razr Maxx not charging</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
-1.Install BIP
-2.Daily use then wifi tethering 
-3.Plug phone in at beginning of tethering to ps3 for streaming Netflix
-
-
-
-&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
-Battery level should be higher, even with constant streaming. Instead now lower as if not plugged in.
-
-&lt;b&gt;What branch (Free or Pro) and version (number) of the app are you using?&lt;/b&gt;
-Pro version provided on this site
-
-&lt;b&gt;Which device are you using?&lt;/b&gt;
-Rooted Droid RAZR Maxx stock
-
-&lt;b&gt;Which carrier are you using?&lt;/b&gt;
-Verizon 
-
-&lt;b&gt;What language is your device set to?&lt;/b&gt;
-English
-
-&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
-2.3.6
-
-Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
-No
-
-&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
-The only way I have been able to make it charge again is to delete BIP and clear battery stats in ClockworkMod Recovery.
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/133/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=133'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/133'/><author><name>JFolck1...@gmail.com</name><uri>/u/115645192778928711903/</uri></author><issues:id>133</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DEUHSH47eCl7ImA9WhVXEU8.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/135</id><published>2012-04-11T06:37:19.000Z</published><updated>2012-04-11T06:37:19.000Z</updated><title>Cannot use menu after updating to official Android IceCream 4.0.4</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
-1. Once updated to Android Icecream, the menu mobile button only gives choice to close.
-2. I reinstall Battery Indicator and the menu choice disaapears.
-
-&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
-I can´t change settings, sizes, language, etc.
-
-&lt;b&gt;What branch (Free or Pro) and version (number) of the app are you using?&lt;/b&gt;
-Battery Indicator Pro 5.1.4
-
-&lt;b&gt;Which device are you using?&lt;/b&gt;
-Google Samsung Nexus S.
-
-&lt;b&gt;Which carrier are you using?&lt;/b&gt;
-Spanish Pepephone
-
-&lt;b&gt;What language is your device set to?&lt;/b&gt;
-Spanish
-
-&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
-Android 4.0.4
-
-Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
-No.
-
-&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
-
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/135/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=135'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/135'/><author><name>03.ene...@gmail.com</name><uri>/u/102326888326310092277/</uri></author><issues:id>135</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DEcGR347eCl7ImA9WhdaFUQ.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/22</id><published>2011-09-27T10:00:51.000Z</published><updated>2011-10-26T02:27:06.000Z</updated><title>recharge tone not playing</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/131/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=131'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/131'/><author><name>simonkaz...@gmail.com</name><uri>/u/118116605016285923983/</uri></author><issues:id>131</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DEcGR347eCl7ImA9WhdaFUQ.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/22</id><published>2011-09-27T10:00:51.000Z</published><updated>2011-10-26T02:27:06.000Z</updated><title>recharge tone not playing</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
 &lt;b&gt;1.&lt;/b&gt;
 &lt;b&gt;2.&lt;/b&gt;
 &lt;b&gt;3. [Add or remove numbers as necessary]&lt;/b&gt;
@@ -615,4 +473,116 @@ yes but I have it set to ignore battery pro
 
 &lt;b&gt;Please provide any additional information here:&lt;/b&gt;
 It never had this problem with my Galaxy S (save carrier).
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/53/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=53'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/53'/><author><name>JohnLB...@gmail.com</name><uri>/u/110750858226765189892/</uri></author><issues:id>53</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>2</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry></feed>
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/53/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=53'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/53'/><author><name>JohnLB...@gmail.com</name><uri>/u/110750858226765189892/</uri></author><issues:id>53</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>2</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry><entry gd:etag='W/&quot;CkIBQH47eCl7ImA9WhRWFUg.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/72</id><published>2011-12-06T18:24:22.000Z</published><updated>2012-01-03T00:29:11.000Z</updated><title>program doesn't seem to work.</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+&lt;b&gt;1.&lt;/b&gt;
+&lt;b&gt;2.&lt;/b&gt;
+&lt;b&gt;3. [Add or remove numbers as necessary]&lt;/b&gt;
+
+
+&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
+
+
+&lt;b&gt;What branch (Free or Pro) and version (number) of the app are you using?&lt;/b&gt;
+Pro
+
+&lt;b&gt;Which device are you using?&lt;/b&gt;
+Sprint Galaxy2
+
+&lt;b&gt;Which carrier are you using?&lt;/b&gt;
+
+Sprint
+&lt;b&gt;What language is your device set to?&lt;/b&gt;
+Eng.
+
+&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
+
+
+Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
+No
+
+&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
+Purchased program, and downloaded. Prblem is that I don't see any of the things mentioned on my phone. No icon, no warnings, nocolor changes. Basicly I see nothing to show that it is woking. Sorry if I didn,t give you enough info. But I am really tech. handicapped.
+Thanks
+
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/72/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=72'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/72'/><author><name>ska...@verizon.net</name><uri>/u/113725991618718730901/</uri></author><issues:id>72</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry><entry gd:etag='W/&quot;CEYNQH47eCl7ImA9WhRbEEs.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/103</id><published>2012-02-01T01:49:02.000Z</published><updated>2012-02-01T02:09:51.000Z</updated><title>Hack does not stay activated after reboot</title><content type='html'>I activate the 1% hack and it works great. When I turn off my phone and turn out back on, the hack is off now. Every time I restart my phone, the hack deactivates. 
+
+Droid x2 
+
+I use the free version</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/103/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=103'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/103'/><author><name>bradleys...@gmail.com</name><uri>/u/118342228734039037413/</uri></author><issues:id>103</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry><entry gd:etag='W/&quot;DUIBQ347eCl7ImA9WhVTFEQ.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/104</id><published>2012-02-04T06:46:35.000Z</published><updated>2012-02-29T06:39:12.000Z</updated><title>Wrong information</title><content type='html'>I use the version 5.1.1. When i switch off the galayxy not over the night and after this i switch on the smarthone, Battery Indicator Pro shows me constant the message: &amp;quot;The smartphone is diconnected since 12 hours&amp;quot;. How can i reset this notice.</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/104/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=104'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/104'/><author><name>R.Hei...@gmail.com</name><uri>/u/100959567226758747184/</uri></author><issues:id>104</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry><entry gd:etag='W/&quot;AkEGRn47eCl7ImA9WhVXEko.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/108</id><published>2012-02-06T23:38:50.000Z</published><updated>2012-04-13T00:57:07.000Z</updated><title>not showing proper charge level</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+1.plug in usb charging
+2.plug in ac charger
+
+
+&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
+The app does not increase the charge % unless I reboot my phone
+
+
+&lt;b&gt;What branch (Free or Pro) and version (number) of the app are you using?&lt;/b&gt;
+Pro, most recent update
+
+&lt;b&gt;Which device are you using?&lt;/b&gt;
+Samsung epig 4g
+
+&lt;b&gt;Which carrier are you using?&lt;/b&gt;
+Sprint
+
+&lt;b&gt;What language is your device set to?&lt;/b&gt;
+English
+
+&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
+Most recent update
+
+Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
+No
+
+&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
+This problem recently popped up
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/108/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=108'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/108'/><author><name>JAW2...@gmail.com</name><uri>/u/106783066960917922711/</uri></author><issues:id>108</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry><entry gd:etag='W/&quot;DUIDQ347eCl7ImA9WhVQF0k.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/117</id><published>2012-02-22T11:35:41.000Z</published><updated>2012-04-06T21:26:12.000Z</updated><title>Whis in a call when finished I see a force close report for Battery Indicator pro</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+1. None I have found, although after force close message battery indicator pro icon i still in status bar
+
+
+&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
+
+
+What branch (Free or Pro) and version (number) of the app are you using? Using Pro.
+
+
+&lt;b&gt;Which device are you using?&lt;/b&gt;
+HTC desire HD Vodafone Branded
+
+Which carrier are you using? Vodafone
+
+
+What language is your device set to? English
+
+
+Which version of Android are you using? 2.3.5 
+
+
+Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed? No
+
+
+&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
+When i get the message after I have received a call even though it sayd force close and the indicator is still there I can still see it running in the pulldown menu and can still choose that and get into the useage display etc. Have uninstalled and re-installed. Only seems to be happening since last update.</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/117/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=117'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/117'/><author><name>WayneCla...@gmail.com</name><uri>/u/118072110389199168735/</uri></author><issues:id>117</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry><entry gd:etag='W/&quot;CkIFSX47eCl7ImA9WhdWFk0.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/6</id><published>2011-09-05T22:01:30.000Z</published><updated>2011-09-09T20:35:18.000Z</updated><title>Wrong/impossible temperature reported</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+1. Having the app installed and running
+
+
+&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
+I expect a temperature higher than ambient room temperature. I get one close to freezing (right now, 2.8 degrees Celcius)
+
+&lt;b&gt;What version of the app are you using?&lt;/b&gt;
+4.0.3
+
+&lt;b&gt;Which device are you using?&lt;/b&gt;
+LG Optimus T (P509)
+
+&lt;b&gt;Which carrier are you using?&lt;/b&gt;
+Tmobile
+
+&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
+2.2 (stock) 
+
+&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
+Others have reported similar problems @
+http://forum.xda-developers.com/archive/index.php/t-937683.html
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/6/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=6'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/6'/><author><name>alexst...@gmail.com</name><uri>/u/101272652060919058420/</uri></author><issues:id>6</issues:id><issues:label>Type-Defect</issues:label><issues:label>Priority-Low</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>Accepted</issues:status></entry></feed>
