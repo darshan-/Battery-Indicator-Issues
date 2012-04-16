@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:issues='http://schemas.google.com/projecthosting/issues/2009'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full</id><updated>NOW</updated><title>Issues - battery-indicator</title><subtitle>Issues - battery-indicator</subtitle><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/list'/><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?max-results=25'/><link rel='next' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?start-index=26&amp;max-results=25'/><generator version='1.0' uri='http://code.google.com/feeds/issues'>ProjectHosting</generator><openSearch:totalResults>129</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><entry gd:etag='W/&quot;D08NQX47eCl7ImA9WhRRGUU.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/69</id><published>2011-12-04T08:04:50.000Z</published><updated>2011-12-04T08:04:50.000Z</updated><title>Using extended battery by Samsung Galaxy SII</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:issues='http://schemas.google.com/projecthosting/issues/2009'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full</id><updated>NOW</updated><title>Issues - battery-indicator</title><subtitle>Issues - battery-indicator</subtitle><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/list'/><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?max-results=25'/><link rel='next' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?start-index=26&amp;max-results=25'/><generator version='1.0' uri='http://code.google.com/feeds/issues'>ProjectHosting</generator><openSearch:totalResults>130</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><entry gd:etag='W/&quot;D08NQX47eCl7ImA9WhRRGUU.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/69</id><published>2011-12-04T08:04:50.000Z</published><updated>2011-12-04T08:04:50.000Z</updated><title>Using extended battery by Samsung Galaxy SII</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
 1. Installed the original extended battery by Samsung Galaxy SII
 2. It was 19%,  all over sudden became 25%?! 
 &lt;b&gt;3. [Add or remove numbers as necessary]&lt;/b&gt;
@@ -395,7 +395,37 @@ Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
 
 &lt;b&gt;Please provide any additional information here:&lt;/b&gt;
  your app is buggy
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/131/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=131'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/131'/><author><name>simonkaz...@gmail.com</name><uri>/u/118116605016285923983/</uri></author><issues:id>131</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DEcGR347eCl7ImA9WhdaFUQ.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/22</id><published>2011-09-27T10:00:51.000Z</published><updated>2011-10-26T02:27:06.000Z</updated><title>recharge tone not playing</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/131/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=131'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/131'/><author><name>simonkaz...@gmail.com</name><uri>/u/118116605016285923983/</uri></author><issues:id>131</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;CU4FR347eCl7ImA9WhVXFU4.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/139</id><published>2012-04-15T23:51:56.000Z</published><updated>2012-04-15T23:51:56.000Z</updated><title>Extreme Percentage jump on Samsung Galaxy S2</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+1. Restarting the phone
+2. Charging the phone
+&lt;b&gt;3. [Add or remove numbers as necessary]&lt;/b&gt;
+
+
+&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
+Today I was using my phone, showing 57% battery left, than my friend told me on the phone sorry I cannot hear you, so I restarted it. Came back 29% battery available after the restart.
+
+&lt;b&gt;What branch (Free or Pro) and version (number) of the app are you using?&lt;/b&gt;
+Pro
+
+&lt;b&gt;Which device are you using?&lt;/b&gt;
+Samsung Galaxy S2 - I9100XXLPR
+
+&lt;b&gt;Which carrier are you using?&lt;/b&gt;
+O2 carrier in UK
+
+&lt;b&gt;What language is your device set to?&lt;/b&gt;
+English
+
+&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
+Android version 4.0.3
+
+Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
+Yes, but it's not allowed to kill Battery Indicator Pro
+
+&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
+Once happened when I was charging my phone the Battery Indicator Pro showed 97% charge, when the original battery checker told me it's 100% full.
+Couple of times happened after restarting the phone the battery level extremely dropped down after restart. I didn't bothered to report it down, because I'm not sure this is a phone failure or software failure.
+Phone was once sent away for repair, because the network connection wasn't available to the carrier. These days I'm having similar issues with it, and I requested Samsung to respond to my issues.</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/139/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=139'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/139'/><author><name>alam...@gmail.com</name><uri>/u/101369510992880842958/</uri></author><issues:id>139</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DEcGR347eCl7ImA9WhdaFUQ.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/22</id><published>2011-09-27T10:00:51.000Z</published><updated>2011-10-26T02:27:06.000Z</updated><title>recharge tone not playing</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
 &lt;b&gt;1.&lt;/b&gt;
 &lt;b&gt;2.&lt;/b&gt;
 &lt;b&gt;3. [Add or remove numbers as necessary]&lt;/b&gt;
@@ -563,26 +593,4 @@ Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed? No
 
 
 &lt;b&gt;Please provide any additional information here:&lt;/b&gt;
-When i get the message after I have received a call even though it sayd force close and the indicator is still there I can still see it running in the pulldown menu and can still choose that and get into the useage display etc. Have uninstalled and re-installed. Only seems to be happening since last update.</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/117/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=117'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/117'/><author><name>WayneCla...@gmail.com</name><uri>/u/118072110389199168735/</uri></author><issues:id>117</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry><entry gd:etag='W/&quot;CkIFSX47eCl7ImA9WhdWFk0.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/6</id><published>2011-09-05T22:01:30.000Z</published><updated>2011-09-09T20:35:18.000Z</updated><title>Wrong/impossible temperature reported</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
-1. Having the app installed and running
-
-
-&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
-I expect a temperature higher than ambient room temperature. I get one close to freezing (right now, 2.8 degrees Celcius)
-
-&lt;b&gt;What version of the app are you using?&lt;/b&gt;
-4.0.3
-
-&lt;b&gt;Which device are you using?&lt;/b&gt;
-LG Optimus T (P509)
-
-&lt;b&gt;Which carrier are you using?&lt;/b&gt;
-Tmobile
-
-&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
-2.2 (stock) 
-
-&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
-Others have reported similar problems @
-http://forum.xda-developers.com/archive/index.php/t-937683.html
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/6/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=6'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/6'/><author><name>alexst...@gmail.com</name><uri>/u/101272652060919058420/</uri></author><issues:id>6</issues:id><issues:label>Type-Defect</issues:label><issues:label>Priority-Low</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>Accepted</issues:status></entry></feed>
+When i get the message after I have received a call even though it sayd force close and the indicator is still there I can still see it running in the pulldown menu and can still choose that and get into the useage display etc. Have uninstalled and re-installed. Only seems to be happening since last update.</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/117/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=117'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/117'/><author><name>WayneCla...@gmail.com</name><uri>/u/118072110389199168735/</uri></author><issues:id>117</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry></feed>
