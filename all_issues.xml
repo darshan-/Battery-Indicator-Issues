@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:issues='http://schemas.google.com/projecthosting/issues/2009'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full</id><updated>NOW</updated><title>Issues - battery-indicator</title><subtitle>Issues - battery-indicator</subtitle><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/list'/><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?max-results=25'/><link rel='next' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?start-index=26&amp;max-results=25'/><generator version='1.0' uri='http://code.google.com/feeds/issues'>ProjectHosting</generator><openSearch:totalResults>134</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><entry gd:etag='W/&quot;D08NQX47eCl7ImA9WhRRGUU.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/69</id><published>2011-12-04T08:04:50.000Z</published><updated>2011-12-04T08:04:50.000Z</updated><title>Using extended battery by Samsung Galaxy SII</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:issues='http://schemas.google.com/projecthosting/issues/2009'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full</id><updated>NOW</updated><title>Issues - battery-indicator</title><subtitle>Issues - battery-indicator</subtitle><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/list'/><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?max-results=25'/><link rel='next' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?start-index=26&amp;max-results=25'/><generator version='1.0' uri='http://code.google.com/feeds/issues'>ProjectHosting</generator><openSearch:totalResults>135</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><entry gd:etag='W/&quot;D08NQX47eCl7ImA9WhRRGUU.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/69</id><published>2011-12-04T08:04:50.000Z</published><updated>2011-12-04T08:04:50.000Z</updated><title>Using extended battery by Samsung Galaxy SII</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
 1. Installed the original extended battery by Samsung Galaxy SII
 2. It was 19%,  all over sudden became 25%?! 
 &lt;b&gt;3. [Add or remove numbers as necessary]&lt;/b&gt;
@@ -452,7 +452,34 @@ English (US)
 Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
 No
 
-&lt;b&gt;Please provide any additional information here:&lt;/b&gt;</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/140/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=140'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/140'/><author><name>jeremyma...@gmail.com</name><uri>/u/111904737395945578703/</uri></author><issues:id>140</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DEcGR347eCl7ImA9WhdaFUQ.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/22</id><published>2011-09-27T10:00:51.000Z</published><updated>2011-10-26T02:27:06.000Z</updated><title>recharge tone not playing</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+&lt;b&gt;Please provide any additional information here:&lt;/b&gt;</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/140/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=140'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/140'/><author><name>jeremyma...@gmail.com</name><uri>/u/111904737395945578703/</uri></author><issues:id>140</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;Ak8ER347eCl7ImA9WhVWFE8.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/144</id><published>2012-04-26T08:26:46.000Z</published><updated>2012-04-26T08:26:46.000Z</updated><title>Application crash when I try to create alarm</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+1.Samsung Galaxy S2 with ICS (4.0.3)
+2.Try to create Alarm
+
+
+&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
+When I touch &amp;quot;Add alarm&amp;quot; application crash (stop working)
+
+&lt;b&gt;What branch (Free or Pro) and version (number) of the app are you using?&lt;/b&gt;
+Pro (5.1.4)
+
+&lt;b&gt;Which device are you using?&lt;/b&gt;
+Samsung Galaxy S2 (XEZ)
+
+&lt;b&gt;Which carrier are you using?&lt;/b&gt;
+Vodafone CZ
+
+&lt;b&gt;What language is your device set to?&lt;/b&gt;
+English
+
+&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
+4.0.3
+
+Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
+No.
+
+&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/144/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=144'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/144'/><author><name>stefan.v...@gmail.com</name><uri>/u/113396861267387682982/</uri></author><issues:id>144</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DEcGR347eCl7ImA9WhdaFUQ.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/22</id><published>2011-09-27T10:00:51.000Z</published><updated>2011-10-26T02:27:06.000Z</updated><title>recharge tone not playing</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
 &lt;b&gt;1.&lt;/b&gt;
 &lt;b&gt;2.&lt;/b&gt;
 &lt;b&gt;3. [Add or remove numbers as necessary]&lt;/b&gt;
@@ -565,33 +592,4 @@ Thanks
 
 Droid x2 
 
-I use the free version</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/103/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=103'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/103'/><author><name>bradleys...@gmail.com</name><uri>/u/118342228734039037413/</uri></author><issues:id>103</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry><entry gd:etag='W/&quot;DUIBQ347eCl7ImA9WhVTFEQ.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/104</id><published>2012-02-04T06:46:35.000Z</published><updated>2012-02-29T06:39:12.000Z</updated><title>Wrong information</title><content type='html'>I use the version 5.1.1. When i switch off the galayxy not over the night and after this i switch on the smarthone, Battery Indicator Pro shows me constant the message: &amp;quot;The smartphone is diconnected since 12 hours&amp;quot;. How can i reset this notice.</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/104/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=104'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/104'/><author><name>R.Hei...@gmail.com</name><uri>/u/100959567226758747184/</uri></author><issues:id>104</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry><entry gd:etag='W/&quot;AkEGRn47eCl7ImA9WhVXEko.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/108</id><published>2012-02-06T23:38:50.000Z</published><updated>2012-04-13T00:57:07.000Z</updated><title>not showing proper charge level</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
-1.plug in usb charging
-2.plug in ac charger
-
-
-&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
-The app does not increase the charge % unless I reboot my phone
-
-
-&lt;b&gt;What branch (Free or Pro) and version (number) of the app are you using?&lt;/b&gt;
-Pro, most recent update
-
-&lt;b&gt;Which device are you using?&lt;/b&gt;
-Samsung epig 4g
-
-&lt;b&gt;Which carrier are you using?&lt;/b&gt;
-Sprint
-
-&lt;b&gt;What language is your device set to?&lt;/b&gt;
-English
-
-&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
-Most recent update
-
-Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
-No
-
-&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
-This problem recently popped up
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/108/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=108'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/108'/><author><name>JAW2...@gmail.com</name><uri>/u/106783066960917922711/</uri></author><issues:id>108</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry></feed>
+I use the free version</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/103/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=103'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/103'/><author><name>bradleys...@gmail.com</name><uri>/u/118342228734039037413/</uri></author><issues:id>103</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry><entry gd:etag='W/&quot;DUIBQ347eCl7ImA9WhVTFEQ.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/104</id><published>2012-02-04T06:46:35.000Z</published><updated>2012-02-29T06:39:12.000Z</updated><title>Wrong information</title><content type='html'>I use the version 5.1.1. When i switch off the galayxy not over the night and after this i switch on the smarthone, Battery Indicator Pro shows me constant the message: &amp;quot;The smartphone is diconnected since 12 hours&amp;quot;. How can i reset this notice.</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/104/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=104'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/104'/><author><name>R.Hei...@gmail.com</name><uri>/u/100959567226758747184/</uri></author><issues:id>104</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry></feed>
