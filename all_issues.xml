@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:issues='http://schemas.google.com/projecthosting/issues/2009'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full</id><updated>NOW</updated><title>Issues - battery-indicator</title><subtitle>Issues - battery-indicator</subtitle><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/list'/><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?max-results=25'/><link rel='next' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?start-index=26&amp;max-results=25'/><generator version='1.0' uri='http://code.google.com/feeds/issues'>ProjectHosting</generator><openSearch:totalResults>138</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><entry gd:etag='W/&quot;D08NQX47eCl7ImA9WhRRGUU.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/69</id><published>2011-12-04T08:04:50.000Z</published><updated>2011-12-04T08:04:50.000Z</updated><title>Using extended battery by Samsung Galaxy SII</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:issues='http://schemas.google.com/projecthosting/issues/2009'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full</id><updated>NOW</updated><title>Issues - battery-indicator</title><subtitle>Issues - battery-indicator</subtitle><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/list'/><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?max-results=25'/><link rel='next' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?start-index=26&amp;max-results=25'/><generator version='1.0' uri='http://code.google.com/feeds/issues'>ProjectHosting</generator><openSearch:totalResults>139</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><entry gd:etag='W/&quot;D08NQX47eCl7ImA9WhRRGUU.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/69</id><published>2011-12-04T08:04:50.000Z</published><updated>2011-12-04T08:04:50.000Z</updated><title>Using extended battery by Samsung Galaxy SII</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
 1. Installed the original extended battery by Samsung Galaxy SII
 2. It was 19%,  all over sudden became 25%?! 
 &lt;b&gt;3. [Add or remove numbers as necessary]&lt;/b&gt;
@@ -489,7 +489,44 @@ Kleurrijk scherm
 Should be :
 -----------
 Kleurrijk scherm
-Volledig scherm</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/145/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=145'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/145'/><author><name>gunter.s...@gmail.com</name><uri>/u/102024711311383201331/</uri></author><issues:id>145</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DEcGR347eCl7ImA9WhdaFUQ.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/22</id><published>2011-09-27T10:00:51.000Z</published><updated>2011-10-26T02:27:06.000Z</updated><title>recharge tone not playing</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+Volledig scherm</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/145/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=145'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/145'/><author><name>gunter.s...@gmail.com</name><uri>/u/102024711311383201331/</uri></author><issues:id>145</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DUQGQH47eCl7ImA9WhVVEk4.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/148</id><published>2012-05-05T13:34:45.000Z</published><updated>2012-05-05T17:02:01.000Z</updated><title>Menu settings switched in Alarms menu</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+1. Menu
+2. Settings
+3. Alarm
+4. Add alarm
+5. Alarmtype
+6. Charge drops below
+
+
+What is the expected outcome? 
+
+Alarm sounds when battery level drops below preset value
+
+What happens instead?
+
+Alarm sounds when battery level rises above set level when charging
+
+&lt;b&gt;What branch (Free or Pro) and version (number) of the app are you using?&lt;/b&gt;
+Pro v. 5.1.5.
+
+&lt;b&gt;Which device are you using?&lt;/b&gt;
+Samsung Galaxy S Plus
+
+&lt;b&gt;Which carrier are you using?&lt;/b&gt;
+Vodafone
+
+&lt;b&gt;What language is your device set to?&lt;/b&gt;
+Dutch
+
+&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
+2.3.6
+
+Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
+Yes, but set to manual, never automatic
+
+&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
+Selecting 'charge drops below' results in an alarm set for 'rises above', this selection is also shown as set in the menu
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/148/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=148'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/148'/><author><name>jjmm.bat...@gmail.com</name><uri>/u/107101114423639189129/</uri></author><issues:id>148</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DEcGR347eCl7ImA9WhdaFUQ.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/22</id><published>2011-09-27T10:00:51.000Z</published><updated>2011-10-26T02:27:06.000Z</updated><title>recharge tone not playing</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
 &lt;b&gt;1.&lt;/b&gt;
 &lt;b&gt;2.&lt;/b&gt;
 &lt;b&gt;3. [Add or remove numbers as necessary]&lt;/b&gt;
@@ -598,8 +635,4 @@ No
 Purchased program, and downloaded. Prblem is that I don't see any of the things mentioned on my phone. No icon, no warnings, nocolor changes. Basicly I see nothing to show that it is woking. Sorry if I didn,t give you enough info. But I am really tech. handicapped.
 Thanks
 
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/72/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=72'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/72'/><author><name>ska...@verizon.net</name><uri>/u/113725991618718730901/</uri></author><issues:id>72</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry><entry gd:etag='W/&quot;CEYNQH47eCl7ImA9WhRbEEs.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/103</id><published>2012-02-01T01:49:02.000Z</published><updated>2012-02-01T02:09:51.000Z</updated><title>Hack does not stay activated after reboot</title><content type='html'>I activate the 1% hack and it works great. When I turn off my phone and turn out back on, the hack is off now. Every time I restart my phone, the hack deactivates. 
-
-Droid x2 
-
-I use the free version</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/103/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=103'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/103'/><author><name>bradleys...@gmail.com</name><uri>/u/118342228734039037413/</uri></author><issues:id>103</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry></feed>
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/72/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=72'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/72'/><author><name>ska...@verizon.net</name><uri>/u/113725991618718730901/</uri></author><issues:id>72</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry></feed>
