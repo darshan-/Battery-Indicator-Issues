@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:issues='http://schemas.google.com/projecthosting/issues/2009'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full</id><updated>NOW</updated><title>Issues - battery-indicator</title><subtitle>Issues - battery-indicator</subtitle><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/list'/><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?max-results=25'/><link rel='next' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?start-index=26&amp;max-results=25'/><generator version='1.0' uri='http://code.google.com/feeds/issues'>ProjectHosting</generator><openSearch:totalResults>148</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><entry gd:etag='W/&quot;D08NQX47eCl7ImA9WhRRGUU.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/69</id><published>2011-12-04T08:04:50.000Z</published><updated>2011-12-04T08:04:50.000Z</updated><title>Using extended battery by Samsung Galaxy SII</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:issues='http://schemas.google.com/projecthosting/issues/2009'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full</id><updated>NOW</updated><title>Issues - battery-indicator</title><subtitle>Issues - battery-indicator</subtitle><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/list'/><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?max-results=25'/><link rel='next' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?start-index=26&amp;max-results=25'/><generator version='1.0' uri='http://code.google.com/feeds/issues'>ProjectHosting</generator><openSearch:totalResults>150</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><entry gd:etag='W/&quot;D08NQX47eCl7ImA9WhRRGUU.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/69</id><published>2011-12-04T08:04:50.000Z</published><updated>2011-12-04T08:04:50.000Z</updated><title>Using extended battery by Samsung Galaxy SII</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
 1. Installed the original extended battery by Samsung Galaxy SII
 2. It was 19%,  all over sudden became 25%?! 
 &lt;b&gt;3. [Add or remove numbers as necessary]&lt;/b&gt;
@@ -555,7 +555,33 @@ Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
 Advanced task killer.
 &lt;b&gt;Please provide any additional information here:&lt;/b&gt;
 
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/154/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=154'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/154'/><author><name>jeffcalv...@gmail.com</name><uri>/u/109816748670416174486/</uri></author><issues:id>154</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DEcGR347eCl7ImA9WhdaFUQ.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/22</id><published>2011-09-27T10:00:51.000Z</published><updated>2011-10-26T02:27:06.000Z</updated><title>recharge tone not playing</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/154/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=154'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/154'/><author><name>jeffcalv...@gmail.com</name><uri>/u/109816748670416174486/</uri></author><issues:id>154</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;CkMGRn47eCl7ImA9WhVbEkk.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/159</id><published>2012-05-28T21:27:07.000Z</published><updated>2012-05-28T21:27:07.000Z</updated><title>GUI error when viewing alarm settings (settings covered over) [ICS]</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+1. View alarm settings
+
+&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
+Alarm settings visible and editable
+
+&lt;b&gt;What branch (Free or Pro) and version (number) of the app are you using?&lt;/b&gt;
+Pro 5.1.5
+
+&lt;b&gt;Which device are you using?&lt;/b&gt;
+Samsung Galaxy S2
+
+&lt;b&gt;Which carrier are you using?&lt;/b&gt;
+Virgin Mobile South Africa
+
+&lt;b&gt;What language is your device set to?&lt;/b&gt;
+en_GB
+
+&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
+ICS 4.0.3
+
+Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
+Yes, n/a
+
+&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
+The alarms toggle is visible and works, the rest of the bar appears to be covered by a grey rectangle. Tapping or long pressing on that rectangle does nothing. Add a result the options cannot be changed or deleted. 
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/159/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=159'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/159'/><author><name>naylor.b...@gmail.com</name><uri>/u/102110086537003697121/</uri></author><issues:id>159</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DEcGR347eCl7ImA9WhdaFUQ.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/22</id><published>2011-09-27T10:00:51.000Z</published><updated>2011-10-26T02:27:06.000Z</updated><title>recharge tone not playing</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
 &lt;b&gt;1.&lt;/b&gt;
 &lt;b&gt;2.&lt;/b&gt;
 &lt;b&gt;3. [Add or remove numbers as necessary]&lt;/b&gt;
@@ -604,33 +630,4 @@ English US
 
 &lt;b&gt;Please provide any additional information here:&lt;/b&gt;
 
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/48/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=48'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/48'/><author><name>AIM120.S...@gmail.com</name><uri>/u/101652849475244011116/</uri></author><issues:id>48</issues:id><issues:label>Type-Defect</issues:label><issues:label>Priority-Medium</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>3</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry><entry gd:etag='W/&quot;DUIBRX47eCl7ImA9WhRTEU0.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/36</id><published>2011-10-24T19:09:50.000Z</published><updated>2011-11-01T00:32:34.000Z</updated><title>lock and unlock functions frozen</title><content type='html'>Did the verizon system update The battery application The function That lets you enable And lock will not work. I cannot turn the function back on. Before the update you could go back and forth. What can I do to fix this</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/36/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=36'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/36'/><author><name>bobrowpa...@gmail.com</name><uri>/u/106311357956199823748/</uri></author><issues:id>36</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry><entry gd:etag='W/&quot;D0EAR347eCl7ImA9WhRWFk8.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/53</id><published>2011-11-05T03:07:03.000Z</published><updated>2012-01-03T21:20:46.000Z</updated><title>battery pro sticks at 100% after it is unplugged</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
-1. Usually happens when my phone is plugged via USB at work (Window 7).  
-2. This doesn't always happen. 
-3. The phone charges all night on a charger and it has never been a problem in the morning when I disconnect the charger.
-
-&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
-Batter Pro reads 100%.  After a while, i become suspect of the stellar batter performance.  I need to shut phone off and restart it.  Battery Pro then shows the correct %.
-
-
-&lt;b&gt;What branch (Free or Pro) and version (number) of the app are you using?&lt;/b&gt;
-Pro 5.0.2
-
-&lt;b&gt;Which device are you using?&lt;/b&gt;
-Samsun Galaxy SII
-
-&lt;b&gt;Which carrier are you using?&lt;/b&gt;
-T-Mobile
-
-&lt;b&gt;What language is your device set to?&lt;/b&gt;
-English
-
-&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
-2.3.5
-
-Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
-yes but I have it set to ignore battery pro
-
-&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
-It never had this problem with my Galaxy S (save carrier).
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/53/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=53'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/53'/><author><name>JohnLB...@gmail.com</name><uri>/u/110750858226765189892/</uri></author><issues:id>53</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>2</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry></feed>
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/48/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=48'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/48'/><author><name>AIM120.S...@gmail.com</name><uri>/u/101652849475244011116/</uri></author><issues:id>48</issues:id><issues:label>Type-Defect</issues:label><issues:label>Priority-Medium</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>3</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry><entry gd:etag='W/&quot;DUIBRX47eCl7ImA9WhRTEU0.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/36</id><published>2011-10-24T19:09:50.000Z</published><updated>2011-11-01T00:32:34.000Z</updated><title>lock and unlock functions frozen</title><content type='html'>Did the verizon system update The battery application The function That lets you enable And lock will not work. I cannot turn the function back on. Before the update you could go back and forth. What can I do to fix this</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/36/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=36'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/36'/><author><name>bobrowpa...@gmail.com</name><uri>/u/106311357956199823748/</uri></author><issues:id>36</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry></feed>
