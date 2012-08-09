@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:issues='http://schemas.google.com/projecthosting/issues/2009'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full</id><updated>NOW</updated><title>Issues - battery-indicator</title><subtitle>Issues - battery-indicator</subtitle><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/list'/><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?max-results=25'/><link rel='next' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?start-index=26&amp;max-results=25'/><generator version='1.0' uri='http://code.google.com/feeds/issues'>ProjectHosting</generator><openSearch:totalResults>182</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><entry gd:etag='W/&quot;D08NQX47eCl7ImA9WhRRGUU.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/69</id><published>2011-12-04T08:04:50.000Z</published><updated>2011-12-04T08:04:50.000Z</updated><title>Using extended battery by Samsung Galaxy SII</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:issues='http://schemas.google.com/projecthosting/issues/2009'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full</id><updated>NOW</updated><title>Issues - battery-indicator</title><subtitle>Issues - battery-indicator</subtitle><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/list'/><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?max-results=25'/><link rel='next' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full?start-index=26&amp;max-results=25'/><generator version='1.0' uri='http://code.google.com/feeds/issues'>ProjectHosting</generator><openSearch:totalResults>184</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><entry gd:etag='W/&quot;D08NQX47eCl7ImA9WhRRGUU.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/69</id><published>2011-12-04T08:04:50.000Z</published><updated>2011-12-04T08:04:50.000Z</updated><title>Using extended battery by Samsung Galaxy SII</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
 1. Installed the original extended battery by Samsung Galaxy SII
 2. It was 19%,  all over sudden became 25%?! 
 &lt;b&gt;3. [Add or remove numbers as necessary]&lt;/b&gt;
@@ -61,41 +61,7 @@ Advanced task killer
 
 &lt;b&gt;Please provide any additional information here:&lt;/b&gt;
 
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/76/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=76'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/76'/><author><name>ferret...@gmail.com</name><uri>/u/112600946860284283659/</uri></author><issues:id>76</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>0</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DEMMQ347eCl7ImA9WhRXEEk.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/81</id><published>2011-12-16T14:41:22.000Z</published><updated>2011-12-16T14:41:22.000Z</updated><title>Fully charged battery alarm no longer works</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
-1. Whenever I set the fully charged alarm on my HTC Desire Z mobile it no longer makes the sound or flashes the lights. When in an older version of Battery Indicator Pro it used to.
-
-
-&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
-
-No alarm/indicators.
-
-&lt;b&gt;What branch (Free or Pro) and version (number) of the app are you using?&lt;/b&gt;
-
-Pro
-
-&lt;b&gt;Which device are you using?&lt;/b&gt;
-
-HTC Desire Z
-
-&lt;b&gt;Which carrier are you using?&lt;/b&gt;
-
-T-Mobile in UK
-
-&lt;b&gt;What language is your device set to?&lt;/b&gt;
-
-English
-
-&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
-
-Latest
-
-Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
-
-No
-
-&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
-
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/81/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=81'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/81'/><author><name>james.ru...@gmail.com</name><uri>/u/112845116082960151659/</uri></author><issues:id>81</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DEEBSX47eCl7ImA9WhRXFE4.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/86</id><published>2011-12-21T03:04:18.000Z</published><updated>2011-12-21T03:04:18.000Z</updated><title>Freezes when reaches 14%. also causes stock bat indicator to freeze</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/76/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=76'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/76'/><author><name>ferret...@gmail.com</name><uri>/u/112600946860284283659/</uri></author><issues:id>76</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>0</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DEEBSX47eCl7ImA9WhRXFE4.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/86</id><published>2011-12-21T03:04:18.000Z</published><updated>2011-12-21T03:04:18.000Z</updated><title>Freezes when reaches 14%. also causes stock bat indicator to freeze</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
 1. Happens every time.
 
 
@@ -364,34 +330,7 @@ English (US)
 Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
 No
 
-&lt;b&gt;Please provide any additional information here:&lt;/b&gt;</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/140/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=140'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/140'/><author><name>jeremyma...@gmail.com</name><uri>/u/111904737395945578703/</uri></author><issues:id>140</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DE8EQX47eCl7ImA9WhJTEE0.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/144</id><published>2012-04-26T08:26:46.000Z</published><updated>2012-06-18T08:06:40.000Z</updated><title>Application crash when I try to create alarm</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
-1.Samsung Galaxy S2 with ICS (4.0.3)
-2.Try to create Alarm
-
-
-&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
-When I touch &amp;quot;Add alarm&amp;quot; application crash (stop working)
-
-&lt;b&gt;What branch (Free or Pro) and version (number) of the app are you using?&lt;/b&gt;
-Pro (5.1.4)
-
-&lt;b&gt;Which device are you using?&lt;/b&gt;
-Samsung Galaxy S2 (XEZ)
-
-&lt;b&gt;Which carrier are you using?&lt;/b&gt;
-Vodafone CZ
-
-&lt;b&gt;What language is your device set to?&lt;/b&gt;
-English
-
-&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
-4.0.3
-
-Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
-No.
-
-&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/144/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=144'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/144'/><author><name>stefan.v...@gmail.com</name><uri>/u/113396861267387682982/</uri></author><issues:id>144</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>2</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;AkUDRX47eCl7ImA9WhVWGUk.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/145</id><published>2012-05-02T08:44:34.000Z</published><updated>2012-05-02T08:44:34.000Z</updated><title>Dutch translation wrong</title><content type='html'>After upgrade to 5.1.5 version the order of Dutch translations of theme's are switched :
+&lt;b&gt;Please provide any additional information here:&lt;/b&gt;</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/140/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=140'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/140'/><author><name>jeremyma...@gmail.com</name><uri>/u/111904737395945578703/</uri></author><issues:id>140</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;AkUDRX47eCl7ImA9WhVWGUk.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/145</id><published>2012-05-02T08:44:34.000Z</published><updated>2012-05-02T08:44:34.000Z</updated><title>Dutch translation wrong</title><content type='html'>After upgrade to 5.1.5 version the order of Dutch translations of theme's are switched :
 
 Now :
 -----
@@ -613,4 +552,64 @@ English US
 
 &lt;b&gt;Please provide any additional information here:&lt;/b&gt;
 
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/48/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=48'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/48'/><author><name>AIM120.S...@gmail.com</name><uri>/u/101652849475244011116/</uri></author><issues:id>48</issues:id><issues:label>Type-Defect</issues:label><issues:label>Priority-Medium</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>3</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry><entry gd:etag='W/&quot;DUIBRX47eCl7ImA9WhRTEU0.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/36</id><published>2011-10-24T19:09:50.000Z</published><updated>2011-11-01T00:32:34.000Z</updated><title>lock and unlock functions frozen</title><content type='html'>Did the verizon system update The battery application The function That lets you enable And lock will not work. I cannot turn the function back on. Before the update you could go back and forth. What can I do to fix this</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/36/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=36'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/36'/><author><name>bobrowpa...@gmail.com</name><uri>/u/106311357956199823748/</uri></author><issues:id>36</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry></feed>
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/48/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=48'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/48'/><author><name>AIM120.S...@gmail.com</name><uri>/u/101652849475244011116/</uri></author><issues:id>48</issues:id><issues:label>Type-Defect</issues:label><issues:label>Priority-Medium</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>3</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry><entry gd:etag='W/&quot;DUIBRX47eCl7ImA9WhRTEU0.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/36</id><published>2011-10-24T19:09:50.000Z</published><updated>2011-11-01T00:32:34.000Z</updated><title>lock and unlock functions frozen</title><content type='html'>Did the verizon system update The battery application The function That lets you enable And lock will not work. I cannot turn the function back on. Before the update you could go back and forth. What can I do to fix this</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/36/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=36'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/36'/><author><name>bobrowpa...@gmail.com</name><uri>/u/106311357956199823748/</uri></author><issues:id>36</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry><entry gd:etag='W/&quot;D0EAR347eCl7ImA9WhRWFk8.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/53</id><published>2011-11-05T03:07:03.000Z</published><updated>2012-01-03T21:20:46.000Z</updated><title>battery pro sticks at 100% after it is unplugged</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+1. Usually happens when my phone is plugged via USB at work (Window 7).  
+2. This doesn't always happen. 
+3. The phone charges all night on a charger and it has never been a problem in the morning when I disconnect the charger.
+
+&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
+Batter Pro reads 100%.  After a while, i become suspect of the stellar batter performance.  I need to shut phone off and restart it.  Battery Pro then shows the correct %.
+
+
+&lt;b&gt;What branch (Free or Pro) and version (number) of the app are you using?&lt;/b&gt;
+Pro 5.0.2
+
+&lt;b&gt;Which device are you using?&lt;/b&gt;
+Samsun Galaxy SII
+
+&lt;b&gt;Which carrier are you using?&lt;/b&gt;
+T-Mobile
+
+&lt;b&gt;What language is your device set to?&lt;/b&gt;
+English
+
+&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
+2.3.5
+
+Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
+yes but I have it set to ignore battery pro
+
+&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
+It never had this problem with my Galaxy S (save carrier).
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/53/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=53'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/53'/><author><name>JohnLB...@gmail.com</name><uri>/u/110750858226765189892/</uri></author><issues:id>53</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>2</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry><entry gd:etag='W/&quot;CkIBQH47eCl7ImA9WhRWFUg.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/72</id><published>2011-12-06T18:24:22.000Z</published><updated>2012-01-03T00:29:11.000Z</updated><title>program doesn't seem to work.</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+&lt;b&gt;1.&lt;/b&gt;
+&lt;b&gt;2.&lt;/b&gt;
+&lt;b&gt;3. [Add or remove numbers as necessary]&lt;/b&gt;
+
+
+&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
+
+
+&lt;b&gt;What branch (Free or Pro) and version (number) of the app are you using?&lt;/b&gt;
+Pro
+
+&lt;b&gt;Which device are you using?&lt;/b&gt;
+Sprint Galaxy2
+
+&lt;b&gt;Which carrier are you using?&lt;/b&gt;
+
+Sprint
+&lt;b&gt;What language is your device set to?&lt;/b&gt;
+Eng.
+
+&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
+
+
+Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
+No
+
+&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
+Purchased program, and downloaded. Prblem is that I don't see any of the things mentioned on my phone. No icon, no warnings, nocolor changes. Basicly I see nothing to show that it is woking. Sorry if I didn,t give you enough info. But I am really tech. handicapped.
+Thanks
+
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/72/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=72'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/72'/><author><name>ska...@verizon.net</name><uri>/u/113725991618718730901/</uri></author><issues:id>72</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry></feed>
