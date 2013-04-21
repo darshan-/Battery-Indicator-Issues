@@ -144,36 +144,7 @@ Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
 No
 &lt;b&gt;Please provide any additional information here:&lt;/b&gt;
 
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/91/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=91'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/91'/><author><name>popest...@gmail.com</name><uri>/u/100355388559882421301/</uri></author><issues:id>91</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>2</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DUEASH47eCl7ImA9WhRaEU0.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/101</id><published>2012-01-29T14:49:03.000Z</published><updated>2012-02-13T04:34:09.000Z</updated><title>Disable Lock screen does no longer work</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
-1. Pressing the button Disable Lock Screen, and the button changes to Reenable Lock Screen - however the screen is always locked whenever I switch on the phone.
-2. Same thing when charging the phone, the screen is always locked when switched on.
-3. This used to work - all the necessary options under in the menu have been set.
-
-
-&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
-The screen is alway locked when the phone is switched on
-
-&lt;b&gt;What branch (Free or Pro) and version (number) of the app are you using?&lt;/b&gt;
-Battery Indicator Pro version 5.1.1
-
-&lt;b&gt;Which device are you using?&lt;/b&gt;
-Samsung Galaxy S2 (GT-I9100)
-
-&lt;b&gt;Which carrier are you using?&lt;/b&gt;
-TDC MOBIL (23801)
-
-&lt;b&gt;What language is your device set to?&lt;/b&gt;
-Danish
-
-&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
-ver 2.3.5
-
-Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
-No
-
-&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
---
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/101/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=101'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/101'/><author><name>pwh...@gmail.com</name><uri>/u/112930455399762991343/</uri></author><issues:id>101</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>3</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;CEcGRH47eCl7ImA9WhRaGEQ.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/116</id><published>2012-02-22T06:27:05.000Z</published><updated>2012-02-22T06:27:05.000Z</updated><title>Battery indicator % problems. 1.) Says fully charged at 96% for long time possibly a bug. 2.) When unplugged discharges from 99% and dies at 2%.</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/91/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=91'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/91'/><author><name>popest...@gmail.com</name><uri>/u/100355388559882421301/</uri></author><issues:id>91</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>2</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;CEcGRH47eCl7ImA9WhRaGEQ.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/116</id><published>2012-02-22T06:27:05.000Z</published><updated>2012-02-22T06:27:05.000Z</updated><title>Battery indicator % problems. 1.) Says fully charged at 96% for long time possibly a bug. 2.) When unplugged discharges from 99% and dies at 2%.</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
 1. Turned phone on/off 
 2. Unplugged charger plugged in 
 
@@ -680,4 +651,8 @@ tata docomo
 2.3
 &lt;b&gt;Please provide any additional information here:&lt;/b&gt;
 
- hey i have galaxy ace and have downloaded BI pto but there is a problem...after complete recharge of my complete recharge tone does not plays...plz fix it asap...thanx in advance</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/22/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=22'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/22'/><author><name>dynamite...@gmail.com</name><uri>/u/108718285829900948590/</uri></author><issues:id>22</issues:id><issues:label>Type-Defect</issues:label><issues:label>Priority-Medium</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry></feed>
+ hey i have galaxy ace and have downloaded BI pto but there is a problem...after complete recharge of my complete recharge tone does not plays...plz fix it asap...thanx in advance</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/22/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=22'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/22'/><author><name>dynamite...@gmail.com</name><uri>/u/108718285829900948590/</uri></author><issues:id>22</issues:id><issues:label>Type-Defect</issues:label><issues:label>Priority-Medium</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry><entry gd:etag='W/&quot;CkcDQ347eCl7ImA9WhdaGUw.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/26</id><published>2011-10-04T14:59:41.000Z</published><updated>2011-10-29T17:41:12.000Z</updated><title>Translation problem ?</title><content type='html'>Battery Indicator show an icon with percentage in the upper left notification area. This is ok. When I pull down for detailed information I get this : &amp;quot;Losgekoppeld For 489 Hours&amp;quot;. So after some time a part of the Dutch translation switches to English.
+
+Free version 4.0.4, on HTC Legend with Android 2.2 (Froyo)
+
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/26/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=26'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/26'/><author><name>gunter.s...@gmail.com</name><uri>/u/102024711311383201331/</uri></author><issues:id>26</issues:id><issues:label>Type-Defect</issues:label><issues:label>Priority-Medium</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry></feed>
