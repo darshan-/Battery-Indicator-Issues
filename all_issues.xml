@@ -628,33 +628,7 @@ yes
 
 &lt;b&gt;Please provide any additional information here:&lt;/b&gt;
 
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/201/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=201'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/201'/><author><name>a0956510...@gmail.com</name><uri>/u/115703300455004878182/</uri></author><issues:id>201</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;CEEBRn47eCl7ImA9WhBUE04.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/213</id><published>2013-04-30T14:37:37.000Z</published><updated>2013-04-30T14:37:37.000Z</updated><title>Random crash on Nexus 4 since 8.0.6 (Beta)</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
-1. Screen unlocked and using phone.
-
-&lt;b&gt;What is the expected outcome? What happens instead?&lt;/b&gt;
-App randomly crashes in the background. Did a un-install, re-install, but still have the issue.
-
-&lt;b&gt;What branch (Free or Pro) and version (number) of the app are you using?&lt;/b&gt;
-BatteryBot Pro 8.0.6 (Beta) purchased and installed from market.
-
-&lt;b&gt;Which device are you using?&lt;/b&gt;
-Google Play LG Nexus 4 16GB
-
-&lt;b&gt;Which carrier are you using?&lt;/b&gt;
-T-Mobile US
-
-&lt;b&gt;What language is your device set to?&lt;/b&gt;
-English (US)
-
-&lt;b&gt;Which version of Android are you using?&lt;/b&gt;
-4.2.2
-
-Do you have an &amp;quot;Task Killer&amp;quot; or similar apps installed?
-No
-
-&lt;b&gt;Please provide any additional information here:&lt;/b&gt;
-All previous beta's worked fine. Bug reports were sent from android as well.
-</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/213/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=213'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/213'/><author><name>kb2...@gmail.com</name><uri>/u/116326045193633598807/</uri></author><issues:id>213</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DEcGR347eCl7ImA9WhdaFUQ.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/22</id><published>2011-09-27T10:00:51.000Z</published><updated>2011-10-26T02:27:06.000Z</updated><title>recharge tone not playing</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/201/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=201'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/201'/><author><name>a0956510...@gmail.com</name><uri>/u/115703300455004878182/</uri></author><issues:id>201</issues:id><issues:label>Type-Defect</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>New</issues:status></entry><entry gd:etag='W/&quot;DEcGR347eCl7ImA9WhdaFUQ.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/22</id><published>2011-09-27T10:00:51.000Z</published><updated>2011-10-26T02:27:06.000Z</updated><title>recharge tone not playing</title><content type='html'>&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
 &lt;b&gt;1.&lt;/b&gt;
 &lt;b&gt;2.&lt;/b&gt;
 &lt;b&gt;3. [Add or remove numbers as necessary]&lt;/b&gt;
@@ -677,4 +651,8 @@ tata docomo
 2.3
 &lt;b&gt;Please provide any additional information here:&lt;/b&gt;
 
- hey i have galaxy ace and have downloaded BI pto but there is a problem...after complete recharge of my complete recharge tone does not plays...plz fix it asap...thanx in advance</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/22/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=22'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/22'/><author><name>dynamite...@gmail.com</name><uri>/u/108718285829900948590/</uri></author><issues:id>22</issues:id><issues:label>Type-Defect</issues:label><issues:label>Priority-Medium</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry></feed>
+ hey i have galaxy ace and have downloaded BI pto but there is a problem...after complete recharge of my complete recharge tone does not plays...plz fix it asap...thanx in advance</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/22/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=22'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/22'/><author><name>dynamite...@gmail.com</name><uri>/u/108718285829900948590/</uri></author><issues:id>22</issues:id><issues:label>Type-Defect</issues:label><issues:label>Priority-Medium</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry><entry gd:etag='W/&quot;CkcDQ347eCl7ImA9WhdaGUw.&quot;'><id>http://code.google.com/feeds/issues/p/battery-indicator/issues/full/26</id><published>2011-10-04T14:59:41.000Z</published><updated>2011-10-29T17:41:12.000Z</updated><title>Translation problem ?</title><content type='html'>Battery Indicator show an icon with percentage in the upper left notification area. This is ok. When I pull down for detailed information I get this : &amp;quot;Losgekoppeld For 489 Hours&amp;quot;. So after some time a part of the Dutch translation switches to English.
+
+Free version 4.0.4, on HTC Legend with Android 2.2 (Froyo)
+
+</content><link rel='replies' type='application/atom+xml' href='http://code.google.com/feeds/issues/p/battery-indicator/issues/26/comments/full'/><link rel='alternate' type='text/html' href='http://code.google.com/p/battery-indicator/issues/detail?id=26'/><link rel='self' type='application/atom+xml' href='https://code.google.com/feeds/issues/p/battery-indicator/issues/full/26'/><author><name>gunter.s...@gmail.com</name><uri>/u/102024711311383201331/</uri></author><issues:id>26</issues:id><issues:label>Type-Defect</issues:label><issues:label>Priority-Medium</issues:label><issues:owner><issues:uri>/u/100973032217517496095/</issues:uri><issues:username>andr...@darshancomputing.com</issues:username></issues:owner><issues:stars>1</issues:stars><issues:state>open</issues:state><issues:status>NeedMoreInfo</issues:status></entry></feed>
